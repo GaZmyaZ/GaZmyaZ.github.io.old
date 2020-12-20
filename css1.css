@@ -1,0 +1,99 @@
+
+
+
+
+
+.lol{
+display: block;
+margin: auto;
+
+}
+
+
+
+@media screen and (max-width:900px){
+
+.p{
+width:40%; 
+height:40%; 
+
+}
+
+.p:hover{
+width:10px; 
+height: 10px;
+}
+
+body{
+background-image:linear-gradient(red,yellow,green) 
+
+
+}
+
+.ppp{
+border:10px solid green; 
+background-color:#84adf0; 
+margin: auto;
+border-radius:30px;
+padding:20px;
+             
+}
+
+.kok{
+width:100%;   
+}
+
+.vid{
+width:100%; 
+
+}
+
+
+
+}
+
+
+
+
+@media screen and (min-width:900px){
+
+.ppp{
+border:10px solid red; 
+background-color:#84adf0; 
+margin: auto;
+border-radius:30px;
+padding:20px;
+width:50%;   
+}
+
+
+
+.kok
+{
+width:500px; 
+height:500px; 
+transition-duration:2s;
+margin:10px;  
+}
+
+.kok:hover{
+width:200px; 
+height:200px; 
+}
+
+.vid{
+width:560px; 
+height:315px; 
+}
+
+}
+
+
+
+
+
+
+
+
+
+
